@@ -1,0 +1,8 @@
+{
+  "name": "Daily Joy",
+  "description": "A little happiness every day. A beautiful positive daily inspiration app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
